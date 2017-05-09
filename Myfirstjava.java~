@@ -1,0 +1,9 @@
+public class Myfirstjava{
+	
+	public Myfirstjava(String name){
+		System.out.println(name + " is my name");	
+	} 
+	public static void Main(String []args){
+		Myfirstjava j= new Myfirstjava("Charles");
+	}
+}
